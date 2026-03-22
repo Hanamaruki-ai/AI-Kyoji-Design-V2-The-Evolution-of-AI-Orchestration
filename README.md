@@ -216,6 +216,28 @@ Best for / 得意: Translating, brainstorming, and easy-to-read blogs.
 
 ---
 
+### 🐲 Qwen: The Technical Artisan / 技術の職人 
+Best for / 得意: Coding, math, and high-speed reasoning. 
+
+プログラミング、数学、そして超高速な論理推論。 
+
+---
+
+#### V2 Evolution / V2での進化:  
+
+"Efficiency First": It cuts down on fluff and delivers the most direct solution. 
+「効率至上主義」: 無駄な前置きを排除し、最もダイレクトで正解に近い「解」を導き出します。 
+
+---
+
+#### Try this! / 使い方: 
+
+"Write a Python script to automate this data cleanup." 
+
+「このデータ掃除を自動化するPythonコードを書いて！」 
+
+---
+
 ## 💡 3 Golden Rules for V2 / V2を使いこなす3つの鉄則 
 Set the Goal First (L1): Tell the AI "Why" you are doing this. 
 
